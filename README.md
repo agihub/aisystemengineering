@@ -1,7 +1,7 @@
-# AI System Architecture
+# AI System Architecture (DRAFT)
 AI System Architecture
-Intro
-Foundation
+## Intro
+## Foundation
 - algorithms
   - sorting & search
   - recursion
@@ -18,6 +18,13 @@ Foundation
     - machine learning
     - deep learning
     - reinforcement learning
-Platform
-Blueprints
-Summary
+
+## Platform
+## Blueprints
+## System
+- python
+- docker
+- k8s
+## Summary
+## Appendix
+## References & Bibliography
