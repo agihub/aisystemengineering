@@ -1,6 +1,11 @@
 # AI System Engineering (DRAFT)
-AI System Architecture
+AI System Engineering
+
+## Author
+Constantine Gurnov / constantine.agihub@gmail.com
+
 ## Intro
+
 ## Foundation
 - algorithms
   - sorting & search
@@ -43,3 +48,4 @@ AI System Architecture
 ## Summary
 ## Appendix
 ## References & Bibliography
+
