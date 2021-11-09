@@ -1,4 +1,4 @@
-# AI System Architecture (DRAFT)
+# AI System Engineering (DRAFT)
 AI System Architecture
 ## Intro
 ## Foundation
@@ -20,11 +20,26 @@ AI System Architecture
     - reinforcement learning
 
 ## Platform
+- ai system high level
+- data platform
+- featurestore
+- training and evaluation
+- serving
+- metrics
+- experimentation
+- monitoring & logging
+- labeling online and offline
+
 ## Blueprints
+- Search
+- Recommendations
+- News
+
 ## System
 - python
 - docker
 - k8s
+
 ## Summary
 ## Appendix
 ## References & Bibliography
